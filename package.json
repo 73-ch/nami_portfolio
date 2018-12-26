@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "csv-loader": "^3.0.2",
+    "node-sass": "^4.11.0",
+    "normalize.css": "^8.0.1",
     "papaparse": "^4.6.2",
+    "sass-loader": "^7.1.0",
     "vue": "^2.5.2",
     "vue-devtools": "^5.0.0-beta.1",
     "vue-router": "^3.0.1"

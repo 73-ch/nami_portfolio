@@ -30,6 +30,6 @@ module.exports = {
     'indent': 'off',
     'camelcase': 'off',
     'object-curly-spacing': 'off',
-
+    'no-trailing-spaces': 'off'
   }
 };

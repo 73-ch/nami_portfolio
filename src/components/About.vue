@@ -28,7 +28,6 @@
 </template>
 
 <script>
-  import '@/assets/css/common.scss'
   import profile_csv from '@/assets/profile.csv'
 
   export default {

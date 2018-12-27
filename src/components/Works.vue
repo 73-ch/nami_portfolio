@@ -1,5 +1,7 @@
 <template>
-  <p>Works</p>
+  <div class="wrapper">
+    <h1 class="component-title">- Works -</h1>
+  </div>
 </template>
 
 <script>

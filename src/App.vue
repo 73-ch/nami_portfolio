@@ -9,6 +9,7 @@
 <script>
   import 'normalize.css'
   import main_header from '@/components/Header'
+  import '@/assets/css/common.scss'
   export default {
     components: {
       main_header

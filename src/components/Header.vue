@@ -26,6 +26,7 @@
     position: fixed;
     top: 0;
     width: 90vw;
+    height: 60px;
     margin: 0 5vw;
     text-align: right;
     bottom: auto;
@@ -34,6 +35,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-bottom: 2px solid rgba(0.5, 0.5, 0.5, 0.15);
   }
 
   ul {
@@ -45,9 +47,5 @@
   li {
     list-style-type: none;
     width: 25%;
-
-    a {
-      text-decoration: none;
-    }
   }
 </style>
